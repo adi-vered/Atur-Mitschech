@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<container>
+  <rootfiles>
+    <rootfile full-path="score_style.mss"/>
+    <rootfile full-path="עטור_מצחך.mscx"/>
+    <rootfile full-path="Excerpts/0_פסנתר/0_פסנתר.mss"/>
+    <rootfile full-path="Excerpts/0_פסנתר/0_פסנתר.mscx"/>
+    <rootfile full-path="Excerpts/1_סקסופון_טנור/1_סקסופון_טנור.mss"/>
+    <rootfile full-path="Excerpts/1_סקסופון_טנור/1_סקסופון_טנור.mscx"/>
+    <rootfile full-path="Thumbnails/thumbnail.png"/>
+    <rootfile full-path="audiosettings.json"/>
+    <rootfile full-path="viewsettings.json"/>
+    <rootfile full-path="Excerpts/0_פסנתר/viewsettings.json"/>
+    <rootfile full-path="Excerpts/0_פסנתר/audiosettings.json"/>
+    <rootfile full-path="Excerpts/1_סקסופון_טנור/viewsettings.json"/>
+    <rootfile full-path="Excerpts/1_סקסופון_טנור/audiosettings.json"/>
+    </rootfiles>
+  </container>

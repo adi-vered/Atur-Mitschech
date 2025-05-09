@@ -1,0 +1,803 @@
+{
+    "activeSoundProfile": "Muse Sounds",
+    "aux": [
+        {
+            "out": {
+                "balance": 0,
+                "fxChain": {
+                    "0": {
+                        "active": true,
+                        "chainOrder": 0,
+                        "resourceMeta": {
+                            "attributes": {
+                            },
+                            "hasNativeEditorSupport": true,
+                            "id": "Muse Reverb",
+                            "type": "muse_plugin",
+                            "vendor": "Muse"
+                        },
+                        "unitConfiguration": {
+                        }
+                    }
+                },
+                "volumeDb": 0
+            },
+            "soloMuteState": {
+                "mute": false,
+                "solo": false
+            }
+        },
+        {
+            "out": {
+                "balance": 0,
+                "fxChain": {
+                },
+                "volumeDb": 0
+            },
+            "soloMuteState": {
+                "mute": false,
+                "solo": false
+            }
+        }
+    ],
+    "master": {
+        "balance": 0,
+        "fxChain": {
+            "0": {
+                "active": true,
+                "chainOrder": 0,
+                "resourceMeta": {
+                    "attributes": {
+                        "categories": "Fx|Mastering",
+                        "playbackSetupData": "last.last.last"
+                    },
+                    "hasNativeEditorSupport": true,
+                    "id": "Master",
+                    "type": "vst_plugin",
+                    "vendor": "MuseFX"
+                },
+                "unitConfiguration": {
+                    "componentState": "VkMyIaYAAAA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/PiA8TXVzZUZYIFBsdWdpbj0iTWFzdGVyIiBWZXJzaW9uPSIxLjAuNiI+PFBBUkFNIGlkPSJBbW91bnQiIHZhbHVlPSI1Ny43OTk5OTkyMzcwNjA1NSIvPjxQQVJBTSBpZD0iUHJlc2V0IiB2YWx1ZT0iOC4wIi8+PC9NdXNlRlg+AAAAAAAAAAAASlVDRVByaXZhdGVEYXRhAAEBQnlwYXNzAAEBAwAdAAAAAAAAAEpVQ0VQcml2YXRlRGF0YQ==",
+                    "controllerState": ""
+                }
+            }
+        },
+        "volumeDb": -4.699999809265137
+    },
+    "tracks": [
+        {
+            "in": {
+                "resourceMeta": {
+                    "attributes": {
+                        "museCategory": "Muse Keys",
+                        "museName": "Grand Piano",
+                        "musePack": "Muse Keys",
+                        "museUID": "167",
+                        "museVendorName": "Muse",
+                        "playbackSetupData": "keyboards.piano"
+                    },
+                    "hasNativeEditorSupport": false,
+                    "id": "Muse Keys\\Grand Piano\\167",
+                    "type": "muse_sampler_sound_pack",
+                    "vendor": "MuseSounds"
+                },
+                "unitConfiguration": {
+                }
+            },
+            "instrumentId": "piano",
+            "out": {
+                "auxSends": [
+                    {
+                        "active": true,
+                        "signalAmount": 0.7200000286102295
+                    },
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    }
+                ],
+                "balance": 0,
+                "fxChain": {
+                    "0": {
+                        "active": true,
+                        "chainOrder": 0,
+                        "resourceMeta": {
+                            "attributes": {
+                                "categories": "Fx|EQ",
+                                "playbackSetupData": "last.last.last"
+                            },
+                            "hasNativeEditorSupport": true,
+                            "id": "ProEQ",
+                            "type": "vst_plugin",
+                            "vendor": "MuseFX"
+                        },
+                        "unitConfiguration": {
+                            "componentState": "VkMyIc4BAAA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/PiA8TXVzZUZYIFBsdWdpbj0iUHJvIEVRIiBWZXJzaW9uPSIxLjAuNiI+PFBBUkFNIGlkPSJGb2N1c0hpZ2giIHZhbHVlPSIwLjIwMDAwMDAwMjk4MDIzMjIiLz48UEFSQU0gaWQ9IkZvY3VzTG93IiB2YWx1ZT0iMC43OTk5OTk4OTI3MTE2Mzk0Ii8+PFBBUkFNIGlkPSJGb2N1c0xvd01pZHMiIHZhbHVlPSIwLjk5OTk5OTk0MDM5NTM1NTIiLz48UEFSQU0gaWQ9IkZvY3VzTWlkcyIgdmFsdWU9IjAuMzk5OTk5OTc2MTU4MTQyMSIvPjxQQVJBTSBpZD0iR2FpbkhpZ2giIHZhbHVlPSIyLjAiLz48UEFSQU0gaWQ9IkdhaW5Mb3ciIHZhbHVlPSItMS4wIi8+PFBBUkFNIGlkPSJHYWluTG93TWlkcyIgdmFsdWU9Ii0xLjAiLz48UEFSQU0gaWQ9IkdhaW5NaWRzIiB2YWx1ZT0iNC4wIi8+PFBBUkFNIGlkPSJQcmVzZXQiIHZhbHVlPSI5LjAiLz48L011c2VGWD4AAAAAAAAAAABKVUNFUHJpdmF0ZURhdGEAAQFCeXBhc3MAAQEDAB0AAAAAAAAASlVDRVByaXZhdGVEYXRh",
+                            "controllerState": ""
+                        }
+                    }
+                },
+                "volumeDb": -9.300000190734863
+            },
+            "partId": "7",
+            "soloMuteState": {
+                "mute": false,
+                "solo": false
+            }
+        },
+        {
+            "in": {
+                "resourceMeta": {
+                    "attributes": {
+                        "museCategory": "Muse Woodwinds",
+                        "museName": "Tenor Sax",
+                        "musePack": "Muse Woodwinds",
+                        "museUID": "131",
+                        "museVendorName": "",
+                        "playbackSetupData": "winds.saxophone.tenor"
+                    },
+                    "hasNativeEditorSupport": false,
+                    "id": "Muse Woodwinds\\Tenor Sax\\131",
+                    "type": "muse_sampler_sound_pack",
+                    "vendor": "MuseSounds"
+                },
+                "unitConfiguration": {
+                }
+            },
+            "instrumentId": "tenor-saxophone",
+            "out": {
+                "auxSends": [
+                    {
+                        "active": true,
+                        "signalAmount": 0.5699999928474426
+                    },
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    }
+                ],
+                "balance": -0.029999999329447746,
+                "fxChain": {
+                    "0": {
+                        "active": true,
+                        "chainOrder": 0,
+                        "resourceMeta": {
+                            "attributes": {
+                                "playbackSetupData": "last.last.last"
+                            },
+                            "hasNativeEditorSupport": true,
+                            "id": "Chorus",
+                            "type": "vst_plugin",
+                            "vendor": "MuseFX"
+                        },
+                        "unitConfiguration": {
+                            "componentState": "VkMyIZkAAAA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/PiA8TXVzZUZYIFBsdWdpbj0iQ2hvcnVzIiBWZXJzaW9uPSIxLjAuMCI+PFBBUkFNIGlkPSJBbW91bnQiIHZhbHVlPSI2Ny4wIi8+PFBBUkFNIGlkPSJQcmVzZXQiIHZhbHVlPSI1LjAiLz48L011c2VGWD4AAAAAAAAAAABKVUNFUHJpdmF0ZURhdGEAAQFCeXBhc3MAAQEDAB0AAAAAAAAASlVDRVByaXZhdGVEYXRh",
+                            "controllerState": ""
+                        }
+                    },
+                    "1": {
+                        "active": true,
+                        "chainOrder": 1,
+                        "resourceMeta": {
+                            "attributes": {
+                                "playbackSetupData": "last.last.last"
+                            },
+                            "hasNativeEditorSupport": true,
+                            "id": "ProEQ",
+                            "type": "vst_plugin",
+                            "vendor": "MuseFX"
+                        },
+                        "unitConfiguration": {
+                            "componentState": "VkMyIc0BAAA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/PiA8TXVzZUZYIFBsdWdpbj0iUHJvIEVRIiBWZXJzaW9uPSIxLjAuNiI+PFBBUkFNIGlkPSJGb2N1c0hpZ2giIHZhbHVlPSIwLjIwMDAwMDAwMjk4MDIzMjIiLz48UEFSQU0gaWQ9IkZvY3VzTG93IiB2YWx1ZT0iMC43OTk5OTk4OTI3MTE2Mzk0Ii8+PFBBUkFNIGlkPSJGb2N1c0xvd01pZHMiIHZhbHVlPSIwLjk5OTk5OTk0MDM5NTM1NTIiLz48UEFSQU0gaWQ9IkZvY3VzTWlkcyIgdmFsdWU9IjAuMzk5OTk5OTc2MTU4MTQyMSIvPjxQQVJBTSBpZD0iR2FpbkhpZ2giIHZhbHVlPSIxLjAiLz48UEFSQU0gaWQ9IkdhaW5Mb3ciIHZhbHVlPSI1LjAiLz48UEFSQU0gaWQ9IkdhaW5Mb3dNaWRzIiB2YWx1ZT0iMi4wIi8+PFBBUkFNIGlkPSJHYWluTWlkcyIgdmFsdWU9Ii0yLjAiLz48UEFSQU0gaWQ9IlByZXNldCIgdmFsdWU9IjkuMCIvPjwvTXVzZUZYPgAAAAAAAAAAAEpVQ0VQcml2YXRlRGF0YQABAUJ5cGFzcwABAQMAHQAAAAAAAABKVUNFUHJpdmF0ZURhdGE=",
+                            "controllerState": ""
+                        }
+                    }
+                },
+                "volumeDb": -8
+            },
+            "partId": "1",
+            "soloMuteState": {
+                "mute": false,
+                "solo": false
+            }
+        },
+        {
+            "in": {
+                "resourceMeta": {
+                    "attributes": {
+                        "museCategory": "Muse Woodwinds",
+                        "museName": "Alto Sax",
+                        "musePack": "Muse Woodwinds",
+                        "museUID": "130",
+                        "museVendorName": "Muse",
+                        "playbackSetupData": "winds.saxophone.alto"
+                    },
+                    "hasNativeEditorSupport": false,
+                    "id": "Muse Woodwinds\\Alto Sax\\130",
+                    "type": "muse_sampler_sound_pack",
+                    "vendor": "MuseSounds"
+                },
+                "unitConfiguration": {
+                }
+            },
+            "instrumentId": "bb-clarinet",
+            "out": {
+                "auxSends": [
+                    {
+                        "active": true,
+                        "signalAmount": 0.6700000166893005
+                    },
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    }
+                ],
+                "balance": 0,
+                "fxChain": {
+                    "0": {
+                        "active": true,
+                        "chainOrder": 0,
+                        "resourceMeta": {
+                            "attributes": {
+                                "categories": "Fx|EQ",
+                                "playbackSetupData": "last.last.last"
+                            },
+                            "hasNativeEditorSupport": true,
+                            "id": "SimpleEQ",
+                            "type": "vst_plugin",
+                            "vendor": "MuseFX"
+                        },
+                        "unitConfiguration": {
+                            "componentState": "VkMyIZ0AAAA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/PiA8TXVzZUZYIFBsdWdpbj0iU2ltcGxlIEVRIiBWZXJzaW9uPSIxLjAuNiI+PFBBUkFNIGlkPSJBbW91bnQiIHZhbHVlPSI5MS4wIi8+PFBBUkFNIGlkPSJQcmVzZXQiIHZhbHVlPSIxMC4wIi8+PC9NdXNlRlg+AAAAAAAAAAAASlVDRVByaXZhdGVEYXRhAAEBQnlwYXNzAAEBAwAdAAAAAAAAAEpVQ0VQcml2YXRlRGF0YQ==",
+                            "controllerState": ""
+                        }
+                    },
+                    "1": {
+                        "active": true,
+                        "chainOrder": 1,
+                        "resourceMeta": {
+                            "attributes": {
+                                "categories": "Fx|EQ",
+                                "playbackSetupData": "last.last.last"
+                            },
+                            "hasNativeEditorSupport": true,
+                            "id": "SimpleEQ",
+                            "type": "vst_plugin",
+                            "vendor": "MuseFX"
+                        },
+                        "unitConfiguration": {
+                            "componentState": "VkMyIZwAAAA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/PiA8TXVzZUZYIFBsdWdpbj0iU2ltcGxlIEVRIiBWZXJzaW9uPSIxLjAuNiI+PFBBUkFNIGlkPSJBbW91bnQiIHZhbHVlPSI2Ny4wIi8+PFBBUkFNIGlkPSJQcmVzZXQiIHZhbHVlPSIxLjAiLz48L011c2VGWD4AAAAAAAAAAABKVUNFUHJpdmF0ZURhdGEAAQFCeXBhc3MAAQEDAB0AAAAAAAAASlVDRVByaXZhdGVEYXRh",
+                            "controllerState": ""
+                        }
+                    },
+                    "2": {
+                        "active": true,
+                        "chainOrder": 2,
+                        "resourceMeta": {
+                            "attributes": {
+                                "categories": "Fx|EQ",
+                                "playbackSetupData": "last.last.last"
+                            },
+                            "hasNativeEditorSupport": true,
+                            "id": "ProEQ",
+                            "type": "vst_plugin",
+                            "vendor": "MuseFX"
+                        },
+                        "unitConfiguration": {
+                            "componentState": "VkMyIc8BAAA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/PiA8TXVzZUZYIFBsdWdpbj0iUHJvIEVRIiBWZXJzaW9uPSIxLjAuNiI+PFBBUkFNIGlkPSJGb2N1c0hpZ2giIHZhbHVlPSIwLjIwMDAwMDAwMjk4MDIzMjIiLz48UEFSQU0gaWQ9IkZvY3VzTG93IiB2YWx1ZT0iMC43OTk5OTk4OTI3MTE2Mzk0Ii8+PFBBUkFNIGlkPSJGb2N1c0xvd01pZHMiIHZhbHVlPSIwLjk5OTk5OTk0MDM5NTM1NTIiLz48UEFSQU0gaWQ9IkZvY3VzTWlkcyIgdmFsdWU9IjAuMzk5OTk5OTc2MTU4MTQyMSIvPjxQQVJBTSBpZD0iR2FpbkhpZ2giIHZhbHVlPSItNC4wIi8+PFBBUkFNIGlkPSJHYWluTG93IiB2YWx1ZT0iLTIuMCIvPjxQQVJBTSBpZD0iR2Fpbkxvd01pZHMiIHZhbHVlPSItMS4wIi8+PFBBUkFNIGlkPSJHYWluTWlkcyIgdmFsdWU9IjQuMCIvPjxQQVJBTSBpZD0iUHJlc2V0IiB2YWx1ZT0iOS4wIi8+PC9NdXNlRlg+AAAAAAAAAAAASlVDRVByaXZhdGVEYXRhAAEBQnlwYXNzAAEBAwAdAAAAAAAAAEpVQ0VQcml2YXRlRGF0YQ==",
+                            "controllerState": ""
+                        }
+                    }
+                },
+                "volumeDb": -6
+            },
+            "partId": "3",
+            "soloMuteState": {
+                "mute": false,
+                "solo": false
+            }
+        },
+        {
+            "in": {
+                "resourceMeta": {
+                    "attributes": {
+                        "museCategory": "Muse Woodwinds",
+                        "museName": "Oboe",
+                        "musePack": "Muse Woodwinds",
+                        "museUID": "124",
+                        "museVendorName": "",
+                        "playbackSetupData": "winds.oboe"
+                    },
+                    "hasNativeEditorSupport": false,
+                    "id": "Muse Woodwinds\\Oboe\\124",
+                    "type": "muse_sampler_sound_pack",
+                    "vendor": "MuseSounds"
+                },
+                "unitConfiguration": {
+                }
+            },
+            "instrumentId": "oboe",
+            "out": {
+                "auxSends": [
+                    {
+                        "active": true,
+                        "signalAmount": 0.46000000834465027
+                    },
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    }
+                ],
+                "balance": 0,
+                "fxChain": {
+                },
+                "volumeDb": -2
+            },
+            "partId": "6",
+            "soloMuteState": {
+                "mute": false,
+                "solo": false
+            }
+        },
+        {
+            "in": {
+                "resourceMeta": {
+                    "attributes": {
+                        "museCategory": "Muse Woodwinds",
+                        "museName": "Alto Sax",
+                        "musePack": "Muse Woodwinds",
+                        "museUID": "130",
+                        "museVendorName": "Muse",
+                        "playbackSetupData": "winds.saxophone.alto"
+                    },
+                    "hasNativeEditorSupport": false,
+                    "id": "Muse Woodwinds\\Alto Sax\\130",
+                    "type": "muse_sampler_sound_pack",
+                    "vendor": "MuseSounds"
+                },
+                "unitConfiguration": {
+                }
+            },
+            "instrumentId": "bb-clarinet",
+            "out": {
+                "auxSends": [
+                    {
+                        "active": true,
+                        "signalAmount": 0.6200000047683716
+                    },
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    }
+                ],
+                "balance": 0,
+                "fxChain": {
+                    "0": {
+                        "active": true,
+                        "chainOrder": 0,
+                        "resourceMeta": {
+                            "attributes": {
+                                "categories": "Fx|EQ",
+                                "playbackSetupData": "last.last.last"
+                            },
+                            "hasNativeEditorSupport": true,
+                            "id": "SimpleEQ",
+                            "type": "vst_plugin",
+                            "vendor": "MuseFX"
+                        },
+                        "unitConfiguration": {
+                            "componentState": "VkMyIaoAAAA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/PiA8TXVzZUZYIFBsdWdpbj0iU2ltcGxlIEVRIiBWZXJzaW9uPSIxLjAuNiI+PFBBUkFNIGlkPSJBbW91bnQiIHZhbHVlPSI1OS42MDAwMDIyODg4MTgzNiIvPjxQQVJBTSBpZD0iUHJlc2V0IiB2YWx1ZT0iMTAuMCIvPjwvTXVzZUZYPgAAAAAAAAAAAEpVQ0VQcml2YXRlRGF0YQABAUJ5cGFzcwABAQMAHQAAAAAAAABKVUNFUHJpdmF0ZURhdGE=",
+                            "controllerState": ""
+                        }
+                    },
+                    "1": {
+                        "active": true,
+                        "chainOrder": 1,
+                        "resourceMeta": {
+                            "attributes": {
+                                "categories": "Fx|EQ",
+                                "playbackSetupData": "last.last.last"
+                            },
+                            "hasNativeEditorSupport": true,
+                            "id": "SimpleEQ",
+                            "type": "vst_plugin",
+                            "vendor": "MuseFX"
+                        },
+                        "unitConfiguration": {
+                            "componentState": "VkMyIZwAAAA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/PiA8TXVzZUZYIFBsdWdpbj0iU2ltcGxlIEVRIiBWZXJzaW9uPSIxLjAuNiI+PFBBUkFNIGlkPSJBbW91bnQiIHZhbHVlPSI2Ny4wIi8+PFBBUkFNIGlkPSJQcmVzZXQiIHZhbHVlPSIxLjAiLz48L011c2VGWD4AAAAAAAAAAABKVUNFUHJpdmF0ZURhdGEAAQFCeXBhc3MAAQEDAB0AAAAAAAAASlVDRVByaXZhdGVEYXRh",
+                            "controllerState": ""
+                        }
+                    },
+                    "2": {
+                        "active": true,
+                        "chainOrder": 2,
+                        "resourceMeta": {
+                            "attributes": {
+                                "categories": "Fx|EQ",
+                                "playbackSetupData": "last.last.last"
+                            },
+                            "hasNativeEditorSupport": true,
+                            "id": "ProEQ",
+                            "type": "vst_plugin",
+                            "vendor": "MuseFX"
+                        },
+                        "unitConfiguration": {
+                            "componentState": "VkMyIc8BAAA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/PiA8TXVzZUZYIFBsdWdpbj0iUHJvIEVRIiBWZXJzaW9uPSIxLjAuNiI+PFBBUkFNIGlkPSJGb2N1c0hpZ2giIHZhbHVlPSIwLjIwMDAwMDAwMjk4MDIzMjIiLz48UEFSQU0gaWQ9IkZvY3VzTG93IiB2YWx1ZT0iMC43OTk5OTk4OTI3MTE2Mzk0Ii8+PFBBUkFNIGlkPSJGb2N1c0xvd01pZHMiIHZhbHVlPSIwLjk5OTk5OTk0MDM5NTM1NTIiLz48UEFSQU0gaWQ9IkZvY3VzTWlkcyIgdmFsdWU9IjAuMzk5OTk5OTc2MTU4MTQyMSIvPjxQQVJBTSBpZD0iR2FpbkhpZ2giIHZhbHVlPSItNi4wIi8+PFBBUkFNIGlkPSJHYWluTG93IiB2YWx1ZT0iLTQuMCIvPjxQQVJBTSBpZD0iR2Fpbkxvd01pZHMiIHZhbHVlPSItMS4wIi8+PFBBUkFNIGlkPSJHYWluTWlkcyIgdmFsdWU9IjQuMCIvPjxQQVJBTSBpZD0iUHJlc2V0IiB2YWx1ZT0iOS4wIi8+PC9NdXNlRlg+AAAAAAAAAAAASlVDRVByaXZhdGVEYXRhAAEBQnlwYXNzAAEBAwAdAAAAAAAAAEpVQ0VQcml2YXRlRGF0YQ==",
+                            "controllerState": ""
+                        }
+                    }
+                },
+                "volumeDb": -6
+            },
+            "partId": "2",
+            "soloMuteState": {
+                "mute": false,
+                "solo": false
+            }
+        },
+        {
+            "in": {
+                "resourceMeta": {
+                    "attributes": {
+                        "museCategory": "Muse Guitars Vol 1",
+                        "museName": "Acoustic Steel Plucked",
+                        "musePack": "Muse Guitars Vol. 1",
+                        "museUID": "13012",
+                        "museVendorName": "Muse",
+                        "playbackSetupData": "strings.guitar.plucked:acoustic:steel"
+                    },
+                    "hasNativeEditorSupport": false,
+                    "id": "Muse Guitars Vol 1\\Acoustic Steel Plucked\\13012",
+                    "type": "muse_sampler_sound_pack",
+                    "vendor": "MuseSounds"
+                },
+                "unitConfiguration": {
+                }
+            },
+            "instrumentId": "guitar-nylon",
+            "out": {
+                "auxSends": [
+                    {
+                        "active": true,
+                        "signalAmount": 0.7900000214576721
+                    },
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    }
+                ],
+                "balance": 0,
+                "fxChain": {
+                    "0": {
+                        "active": true,
+                        "chainOrder": 0,
+                        "resourceMeta": {
+                            "attributes": {
+                                "categories": "Fx|EQ",
+                                "playbackSetupData": "last.last.last"
+                            },
+                            "hasNativeEditorSupport": true,
+                            "id": "ProEQ",
+                            "type": "vst_plugin",
+                            "vendor": "MuseFX"
+                        },
+                        "unitConfiguration": {
+                            "componentState": "VkMyIc8BAAA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/PiA8TXVzZUZYIFBsdWdpbj0iUHJvIEVRIiBWZXJzaW9uPSIxLjAuNiI+PFBBUkFNIGlkPSJGb2N1c0hpZ2giIHZhbHVlPSIwLjIwMDAwMDAwMjk4MDIzMjIiLz48UEFSQU0gaWQ9IkZvY3VzTG93IiB2YWx1ZT0iMC43OTk5OTk4OTI3MTE2Mzk0Ii8+PFBBUkFNIGlkPSJGb2N1c0xvd01pZHMiIHZhbHVlPSIwLjk5OTk5OTk0MDM5NTM1NTIiLz48UEFSQU0gaWQ9IkZvY3VzTWlkcyIgdmFsdWU9IjAuMTAxOTM2NDQ0NjQwMTU5NiIvPjxQQVJBTSBpZD0iR2FpbkhpZ2giIHZhbHVlPSItNS4wIi8+PFBBUkFNIGlkPSJHYWluTG93IiB2YWx1ZT0iLTQuMCIvPjxQQVJBTSBpZD0iR2Fpbkxvd01pZHMiIHZhbHVlPSItMS4wIi8+PFBBUkFNIGlkPSJHYWluTWlkcyIgdmFsdWU9IjUuMCIvPjxQQVJBTSBpZD0iUHJlc2V0IiB2YWx1ZT0iOS4wIi8+PC9NdXNlRlg+AAAAAAAAAAAASlVDRVByaXZhdGVEYXRhAAEBQnlwYXNzAAEBAwAdAAAAAAAAAEpVQ0VQcml2YXRlRGF0YQ==",
+                            "controllerState": ""
+                        }
+                    }
+                },
+                "volumeDb": -4.699999809265137
+            },
+            "partId": "8",
+            "soloMuteState": {
+                "mute": false,
+                "solo": false
+            }
+        },
+        {
+            "in": {
+                "resourceMeta": {
+                    "attributes": {
+                        "museCategory": "Muse Woodwinds",
+                        "museName": "Bassoon",
+                        "musePack": "Muse Woodwinds",
+                        "museUID": "133",
+                        "museVendorName": "",
+                        "playbackSetupData": "winds.bassoon"
+                    },
+                    "hasNativeEditorSupport": false,
+                    "id": "Muse Woodwinds\\Bassoon\\133",
+                    "type": "muse_sampler_sound_pack",
+                    "vendor": "MuseSounds"
+                },
+                "unitConfiguration": {
+                }
+            },
+            "instrumentId": "bassoon",
+            "out": {
+                "auxSends": [
+                    {
+                        "active": true,
+                        "signalAmount": 0.5
+                    },
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    }
+                ],
+                "balance": 0,
+                "fxChain": {
+                    "0": {
+                        "active": true,
+                        "chainOrder": 0,
+                        "resourceMeta": {
+                            "attributes": {
+                                "categories": "Fx|Dynamics",
+                                "playbackSetupData": "last.last.last"
+                            },
+                            "hasNativeEditorSupport": true,
+                            "id": "Compress",
+                            "type": "vst_plugin",
+                            "vendor": "MuseFX"
+                        },
+                        "unitConfiguration": {
+                            "componentState": "VkMyIagAAAA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/PiA8TXVzZUZYIFBsdWdpbj0iQ29tcHJlc3MiIFZlcnNpb249IjEuMC42Ij48UEFSQU0gaWQ9IkFtb3VudCIgdmFsdWU9IjIxLjQwMDAwNTM0MDU3NjE3Ii8+PFBBUkFNIGlkPSJQcmVzZXQiIHZhbHVlPSI3LjAiLz48L011c2VGWD4AAAAAAAAAAABKVUNFUHJpdmF0ZURhdGEAAQFCeXBhc3MAAQEDAB0AAAAAAAAASlVDRVByaXZhdGVEYXRh",
+                            "controllerState": ""
+                        }
+                    }
+                },
+                "volumeDb": -4.699999809265137
+            },
+            "partId": "4",
+            "soloMuteState": {
+                "mute": false,
+                "solo": false
+            }
+        },
+        {
+            "in": {
+                "resourceMeta": {
+                    "attributes": {
+                        "museCategory": "Muse Woodwinds",
+                        "museName": "Oboe",
+                        "musePack": "Muse Woodwinds",
+                        "museUID": "124",
+                        "museVendorName": "",
+                        "playbackSetupData": "winds.oboe"
+                    },
+                    "hasNativeEditorSupport": false,
+                    "id": "Muse Woodwinds\\Oboe\\124",
+                    "type": "muse_sampler_sound_pack",
+                    "vendor": "MuseSounds"
+                },
+                "unitConfiguration": {
+                }
+            },
+            "instrumentId": "oboe",
+            "out": {
+                "auxSends": [
+                    {
+                        "active": true,
+                        "signalAmount": 0.47999998927116394
+                    },
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    }
+                ],
+                "balance": 0,
+                "fxChain": {
+                },
+                "volumeDb": -1.2999999523162842
+            },
+            "partId": "5",
+            "soloMuteState": {
+                "mute": false,
+                "solo": false
+            }
+        },
+        {
+            "in": {
+                "resourceMeta": {
+                    "attributes": {
+                        "museCategory": "Muse Strings",
+                        "museName": "Violins 2",
+                        "musePack": "Muse Strings",
+                        "museUID": "92",
+                        "museVendorName": "",
+                        "playbackSetupData": "strings.violin.orchestral:secondary:section"
+                    },
+                    "hasNativeEditorSupport": false,
+                    "id": "Muse Strings\\Violins 2\\92",
+                    "type": "muse_sampler_sound_pack",
+                    "vendor": "MuseSounds"
+                },
+                "unitConfiguration": {
+                }
+            },
+            "instrumentId": "violin",
+            "out": {
+                "auxSends": [
+                    {
+                        "active": true,
+                        "signalAmount": 0.5799999833106995
+                    },
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    }
+                ],
+                "balance": 0,
+                "fxChain": {
+                },
+                "volumeDb": -6
+            },
+            "partId": "9",
+            "soloMuteState": {
+                "mute": false,
+                "solo": false
+            }
+        },
+        {
+            "in": {
+                "resourceMeta": {
+                    "attributes": {
+                        "museCategory": "Muse Strings",
+                        "museName": "Violoncello (Solo)",
+                        "musePack": "Muse Strings",
+                        "museUID": "106",
+                        "museVendorName": "Muse",
+                        "playbackSetupData": "strings.violoncello.orchestral"
+                    },
+                    "hasNativeEditorSupport": false,
+                    "id": "Muse Strings\\Violoncello (Solo)\\106",
+                    "type": "muse_sampler_sound_pack",
+                    "vendor": "MuseSounds"
+                },
+                "unitConfiguration": {
+                }
+            },
+            "instrumentId": "violoncello",
+            "out": {
+                "auxSends": [
+                    {
+                        "active": true,
+                        "signalAmount": 0.3499999940395355
+                    },
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    }
+                ],
+                "balance": 0,
+                "fxChain": {
+                    "0": {
+                        "active": true,
+                        "chainOrder": 0,
+                        "resourceMeta": {
+                            "attributes": {
+                                "categories": "Fx|EQ",
+                                "playbackSetupData": "last.last.last"
+                            },
+                            "hasNativeEditorSupport": true,
+                            "id": "ProEQ",
+                            "type": "vst_plugin",
+                            "vendor": "MuseFX"
+                        },
+                        "unitConfiguration": {
+                            "componentState": "VkMyIc4BAAA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/PiA8TXVzZUZYIFBsdWdpbj0iUHJvIEVRIiBWZXJzaW9uPSIxLjAuNiI+PFBBUkFNIGlkPSJGb2N1c0hpZ2giIHZhbHVlPSIwLjIwMDAwMDAwMjk4MDIzMjIiLz48UEFSQU0gaWQ9IkZvY3VzTG93IiB2YWx1ZT0iMC43OTk5OTk4OTI3MTE2Mzk0Ii8+PFBBUkFNIGlkPSJGb2N1c0xvd01pZHMiIHZhbHVlPSIwLjk5OTk5OTk0MDM5NTM1NTIiLz48UEFSQU0gaWQ9IkZvY3VzTWlkcyIgdmFsdWU9IjAuMzk5OTk5OTc2MTU4MTQyMSIvPjxQQVJBTSBpZD0iR2FpbkhpZ2giIHZhbHVlPSIyLjAiLz48UEFSQU0gaWQ9IkdhaW5Mb3ciIHZhbHVlPSItNS4wIi8+PFBBUkFNIGlkPSJHYWluTG93TWlkcyIgdmFsdWU9Ii0xLjAiLz48UEFSQU0gaWQ9IkdhaW5NaWRzIiB2YWx1ZT0iNC4wIi8+PFBBUkFNIGlkPSJQcmVzZXQiIHZhbHVlPSI5LjAiLz48L011c2VGWD4AAAAAAAAAAABKVUNFUHJpdmF0ZURhdGEAAQFCeXBhc3MAAQEDAB0AAAAAAAAASlVDRVByaXZhdGVEYXRh",
+                            "controllerState": ""
+                        }
+                    },
+                    "1": {
+                        "active": true,
+                        "chainOrder": 1,
+                        "resourceMeta": {
+                            "attributes": {
+                                "categories": "Fx|EQ",
+                                "playbackSetupData": "last.last.last"
+                            },
+                            "hasNativeEditorSupport": true,
+                            "id": "SimpleEQ",
+                            "type": "vst_plugin",
+                            "vendor": "MuseFX"
+                        },
+                        "unitConfiguration": {
+                            "componentState": "VkMyIakAAAA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/PiA8TXVzZUZYIFBsdWdpbj0iU2ltcGxlIEVRIiBWZXJzaW9uPSIxLjAuNiI+PFBBUkFNIGlkPSJBbW91bnQiIHZhbHVlPSIxMS40MDAwMDM0MzMyMjc1NCIvPjxQQVJBTSBpZD0iUHJlc2V0IiB2YWx1ZT0iMi4wIi8+PC9NdXNlRlg+AAAAAAAAAAAASlVDRVByaXZhdGVEYXRhAAEBQnlwYXNzAAEBAwAdAAAAAAAAAEpVQ0VQcml2YXRlRGF0YQ==",
+                            "controllerState": ""
+                        }
+                    }
+                },
+                "volumeDb": -6
+            },
+            "partId": "10",
+            "soloMuteState": {
+                "mute": false,
+                "solo": false
+            }
+        },
+        {
+            "in": {
+                "resourceMeta": {
+                    "attributes": {
+                        "playbackSetupData": "last.last.last",
+                        "soundFontName": "MS Basic"
+                    },
+                    "hasNativeEditorSupport": false,
+                    "id": "MS Basic",
+                    "type": "fluid_soundfont",
+                    "vendor": "Fluid"
+                },
+                "unitConfiguration": {
+                }
+            },
+            "instrumentId": "electric-bass",
+            "out": {
+                "auxSends": [
+                    {
+                        "active": true,
+                        "signalAmount": 0.18000000715255737
+                    },
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    }
+                ],
+                "balance": 0,
+                "fxChain": {
+                    "0": {
+                        "active": true,
+                        "chainOrder": 0,
+                        "resourceMeta": {
+                            "attributes": {
+                                "categories": "Fx|EQ",
+                                "playbackSetupData": "last.last.last"
+                            },
+                            "hasNativeEditorSupport": true,
+                            "id": "SimpleEQ",
+                            "type": "vst_plugin",
+                            "vendor": "MuseFX"
+                        },
+                        "unitConfiguration": {
+                            "componentState": "VkMyIakAAAA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/PiA8TXVzZUZYIFBsdWdpbj0iU2ltcGxlIEVRIiBWZXJzaW9uPSIxLjAuNiI+PFBBUkFNIGlkPSJBbW91bnQiIHZhbHVlPSIyMy41OTk5OTg0NzQxMjEwOSIvPjxQQVJBTSBpZD0iUHJlc2V0IiB2YWx1ZT0iNi4wIi8+PC9NdXNlRlg+AAAAAAAAAAAASlVDRVByaXZhdGVEYXRhAAEBQnlwYXNzAAEBAwAdAAAAAAAAAEpVQ0VQcml2YXRlRGF0YQ==",
+                            "controllerState": ""
+                        }
+                    }
+                },
+                "volumeDb": 0
+            },
+            "partId": "11",
+            "soloMuteState": {
+                "mute": false,
+                "solo": false
+            }
+        },
+        {
+            "in": {
+                "resourceMeta": {
+                    "attributes": {
+                    },
+                    "hasNativeEditorSupport": false,
+                    "id": "MS Basic",
+                    "type": "fluid_soundfont",
+                    "vendor": "Fluid"
+                },
+                "unitConfiguration": {
+                }
+            },
+            "instrumentId": "metronome",
+            "out": {
+                "balance": 0,
+                "fxChain": {
+                },
+                "volumeDb": 0
+            },
+            "partId": "999",
+            "soloMuteState": {
+                "mute": false,
+                "solo": false
+            }
+        }
+    ]
+}
